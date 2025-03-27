@@ -34,7 +34,7 @@ The best-performing model achieved **high accuracy** and effectively identified 
 ## 🚀 How to Run the Project
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Online_Payment_Fraud_Detection.git
+git clone https://github.com/AhmadBinTariq/Online-Payment-Fraud-Detection.git
 cd Online_Payment_Fraud_Detection
 ```
 
