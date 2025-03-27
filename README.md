@@ -61,5 +61,5 @@ Open `Online_Payment_Fraud_Detection.ipynb` and execute the cells.
 ---
 📢 **Contributions Welcome!** Feel free to fork, modify, and contribute to this project.
 
-👤 **Author:** Your Name  
-📧 **Contact:** your.email@example.com
+👤 **Author:** Ahmad Bin Tariq
+📧 **Contact:** ahmadbintariq19@gmail.com
